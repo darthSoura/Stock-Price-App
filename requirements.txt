@@ -1,6 +1,5 @@
-streamlit=1.21.0
-pandas=1.5.2
-base64=
-matplotlib=3.6.3
-yfinance=0.2.14
-lxml=4.9.2
+streamlit==1.21.0
+pandas==1.5.2
+matplotlib==3.6.3
+yfinance==0.2.14
+lxml==4.9.2
